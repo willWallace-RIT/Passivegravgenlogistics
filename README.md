@@ -63,7 +63,13 @@ Why This Exists
 
 This is not intended to replace existing power infrastructure.
 
-The output is expected to be low compared to grid-scale generation and real estate is costly at scale The tradeoff is simplicity:
+
+
+The output is expected to be low compared to grid-scale generation and real estate is costly at scale.
+
+even at scale. The electrician is still necessary for everything other aspect of infrastructure. the engineer is required to handle a contained yet simple system design with semi-perpetually moving parts.
+
+The tradeoff to the actual downsides is that simplicity:
 
 no fuel
 
