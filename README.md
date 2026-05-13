@@ -64,7 +64,7 @@ Why This Exists
 
 This is not intended to replace existing power infrastructure.
 
-The output is expected to be low compared to grid-scale generation. The tradeoff is simplicity:
+The output is expected to be low compared to grid-scale generation and real estate is costly at scale The tradeoff is simplicity:
 
 no fuel
 
