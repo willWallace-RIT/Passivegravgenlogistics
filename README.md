@@ -36,12 +36,11 @@ At each end:
 
 3. A latch mechanism stores and releases part of that force.
 
+4. The wheel transitions onto the next incline and repeats.
 
-5. The wheel transitions onto the next incline and repeats.
+5. at the apex the wheel rolls onto a steeper ledge that only renders the wheel inert the pillar itself move downward under weight while generating elecricity with resistance. similar to a piano hammer striking a tuned spring or dynamo and regenerative braking.
 
-6. at the apex the wheel rolls onto a steeper ledge that only renders the wheel inert the pillar itself move downward under weight while generating elecricity with resistance. similar to a piano hammer striking a tuned spring or dynamo and regenerative braking.
-
-7. at the base on either side is a track with the original include to start the wheel moving anew.
+6. at the base on either side is a track with the original include to start the wheel moving anew.
 
 
 Multiple nodes can be connected together in a distributed field:
@@ -121,9 +120,9 @@ To explain the idea quickly:
 
 > Imagine a Donkey Kong barrel that seems to roll uphill because of hidden weight distribution.
 
-Now place a piano key at each end of the track.
+Now place a piano key at the apex.
 
-Every time the barrel reaches an edge, it presses the key and triggers a generator.
+Every time the barrel reaches the peak, it presses the key and triggers a generator.
 
 Connect many of these in a gravity-fed network.
 
