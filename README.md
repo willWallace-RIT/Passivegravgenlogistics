@@ -38,11 +38,9 @@ At each end:
 3. A latch mechanism stores and releases part of that force.
 
 
-4. The release drives a mechanical generator arm, similar to a piano hammer striking a tuned spring or dynamo.
-
-
 5. The wheel transitions onto the next incline and repeats.
 
+6. at the apex the wheel rolls onto a steeper ledge that only renders the wheel inert the pillar itself move downward under weight while generating elecricity with resistance. similar to a piano hammer striking a tuned spring or dynamo and regenerative braking.
 
 
 Multiple nodes can be connected together in a distributed field:
