@@ -31,7 +31,6 @@ At each end:
 
 1. The wheel reaches a pivot edge.
 
-
 2. A seesaw platform tilts under the wheel's mass.
 
 
@@ -41,6 +40,8 @@ At each end:
 5. The wheel transitions onto the next incline and repeats.
 
 6. at the apex the wheel rolls onto a steeper ledge that only renders the wheel inert the pillar itself move downward under weight while generating elecricity with resistance. similar to a piano hammer striking a tuned spring or dynamo and regenerative braking.
+
+7. at the base on either side is a track with the original include to start the wheel moving anew.
 
 
 Multiple nodes can be connected together in a distributed field:
