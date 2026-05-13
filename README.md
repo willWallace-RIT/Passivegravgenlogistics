@@ -120,11 +120,11 @@ To explain the idea quickly:
 
 > Imagine a Donkey Kong barrel that seems to roll uphill because of hidden weight distribution.
 
-Now place a piano key at the apex.
+>Now place a piano key at the apex.
 
-Every time the barrel reaches the peak, it presses the key and triggers a generator.
+>Every time the barrel reaches the peak, it presses the key and triggers a generator.
 
-Connect many of these in a gravity-fed network.
+>Connect many of these in a gravity-fed network.
 
 
 
