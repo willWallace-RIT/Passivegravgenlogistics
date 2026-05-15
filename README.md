@@ -11,6 +11,8 @@ GravityGrid is a conceptual open-source project exploring whether simple, repair
 
 The inspiration is intentionally simple:
 
+
+
 Donkey Kong barrels rolling uphill — a weighted wheel or barrel-like mechanism engineered so its center of mass causes it to appear to roll upward on a carefully chosen incline.
 
 A piano key mechanism — repeated downward force transferred into a spring-loaded strike system that converts motion into electrical generation.
@@ -19,6 +21,12 @@ A seesaw latch system — each end of the track acts like a balanced tipping poi
 
 
 The result is a networkable analog machine designed for low-power generation in places where modern infrastructure is difficult to deploy or maintain.
+
+courtesy (until a dmca takedown due to the scale of importance which should be recognizable for the googs) of youtube and @action lab. Visit the youtube link for more explanation.
+
+![action lab]()
+
+
 
 
 ---
