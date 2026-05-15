@@ -43,6 +43,8 @@ At each end:
 6. at the base on either side is a track with the original include to start the wheel moving anew.
 
 
+![diagram](https://github.com/willWallace-RIT/Passivegravgenlogistics/blob/main/1778630456664.gif)
+
 Multiple nodes can be connected together in a distributed field:
 
 hill-to-hill
