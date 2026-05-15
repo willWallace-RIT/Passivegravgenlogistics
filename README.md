@@ -33,6 +33,9 @@ courtesy (until a dmca takedown due to the scale of importance which should be r
 
 Core Concept
 
+![diagram](https://github.com/willWallace-RIT/Passivegravgenlogistics/blob/main/1778630456664.gif)
+
+
 A weighted rolling element travels between sloped ramps.
 
 At each end:
@@ -40,18 +43,18 @@ At each end:
 1. The wheel reaches a pivot edge.
 
 2. A seesaw platform tilts under the wheel's mass.
-
+![seesaw tilt](https://github.com/willWallace-RIT/Passivegravgenlogistics/blob/main/1778852520835.gif)
 
 3. A latch mechanism stores and releases part of that force.
+![latch](https://github.com/willWallace-RIT/Passivegravgenlogistics/blob/main/1778853220422.gif)
 
-4. The wheel transitions onto the next incline and repeats.
+5. The wheel transitions onto the next incline and repeats.
 
-5. at the apex the wheel rolls onto a steeper ledge that only renders the wheel inert the pillar itself move downward under weight while generating elecricity with resistance. similar to a piano hammer striking a tuned spring or dynamo and regenerative braking.
+6. at the apex the wheel rolls onto a steeper ledge that only renders the wheel inert the pillar itself move downward under weight while generating elecricity with resistance. similar to a piano hammer striking a tuned spring or dynamo and regenerative braking.
 
-6. at the base on either side is a track with the original include to start the wheel moving anew.
+7. at the base on either side is a track with the original include to start the wheel moving anew.
 
 
-![diagram](https://github.com/willWallace-RIT/Passivegravgenlogistics/blob/main/1778630456664.gif)
 
 Multiple nodes can be connected together in a distributed field:
 
