@@ -42,7 +42,7 @@ At each end:
 
 1. The wheel reaches a pivot edge.
 
-2. A seesaw platform tilts under the wheel's mass.
+2. A seesaw platform tilts under the wheel's mass. (the gif is for simplicity but the rate of change of the track transition is likely exponential)
 
 ![seesaw tilt](https://github.com/willWallace-RIT/Passivegravgenlogistics/blob/main/1778852520835.gif)
 
