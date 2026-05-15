@@ -22,11 +22,11 @@ A seesaw latch system — each end of the track acts like a balanced tipping poi
 
 The result is a networkable analog machine designed for low-power generation in places where modern infrastructure is difficult to deploy or maintain.
 
-courtesy (until a dmca takedown due to the scale of importance which should be recognizable for the googs) of youtube and @action lab. Visit the youtube link for more explanation.
+courtesy (until a dmca takedown due to the scale of importance which should be recognizable for the googs) of youtube and @action lab. Visit the youtube link for more explanation. (also it is attributed by channel and design of youtube circa 2026)
 
-![action lab]()
+![action lab](https://github.com/willWallace-RIT/Passivegravgenlogistics/blob/main/InShot_20260515_092220278.gif)
 
-
+[action lab link](https://youtu.be/o4xTbyfQgps?si=26vf2WoU9jNUq8GT)
 
 
 ---
