@@ -15,7 +15,7 @@ The inspiration is intentionally simple:
 
 Donkey Kong barrels rolling uphill — a weighted wheel or barrel-like mechanism engineered so its center of mass causes it to appear to roll upward on a carefully chosen incline.
 
-![crudely drawn donkey kong]()
+![crudely drawn donkey kong](https://github.com/willWallace-RIT/Passivegravgenlogistics/blob/main/1778862099330.gif)
 
 A piano key mechanism — repeated downward force transferred into a spring-loaded strike system that converts motion into electrical generation.
 
