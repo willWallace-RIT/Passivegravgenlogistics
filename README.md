@@ -53,6 +53,7 @@ At each end:
 4. The wheel transitions onto the next incline and repeats.
 
 5. at the apex the wheel rolls onto a steeper ledge that only renders the wheel inert the pillar itself move downward under weight while generating elecricity with resistance. similar to a piano hammer striking a tuned spring or dynamo and regenerative braking.
+
 ![brake and piano key](https://github.com/willWallace-RIT/Passivegravgenlogistics/blob/main/1778858454659.gif)
 
 
