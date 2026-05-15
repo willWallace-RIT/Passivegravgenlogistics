@@ -15,6 +15,8 @@ The inspiration is intentionally simple:
 
 Donkey Kong barrels rolling uphill — a weighted wheel or barrel-like mechanism engineered so its center of mass causes it to appear to roll upward on a carefully chosen incline.
 
+![crudely drawn donkey kong]()
+
 A piano key mechanism — repeated downward force transferred into a spring-loaded strike system that converts motion into electrical generation.
 
 A seesaw latch system — each end of the track acts like a balanced tipping point that mechanically resets and releases the wheel back into motion.
